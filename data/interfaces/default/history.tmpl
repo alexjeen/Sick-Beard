@@ -41,6 +41,8 @@
     </select>
 </div><br/>
 
+<div class="tableWrapper">
+
 <table id="historyTable" class="tablesorter" cellspacing="1" border="0" cellpadding="0">
   <thead><tr><th class="nowrap">Time</th><th>Episode</th><th>Action</th><th>Provider</th><th>Quality</th></tr></thead>
   <tbody>
@@ -81,5 +83,7 @@
 #end for
   </tbody>
 </table>
+
+</div><!-- / end table wrapper -->
 
 #include $os.path.join($sickbeard.PROG_DIR, "data/interfaces/default/inc_bottom.tmpl")

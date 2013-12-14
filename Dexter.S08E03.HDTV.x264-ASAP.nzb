@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!DOCTYPE nzb PUBLIC "-//newzBin//DTD NZB 1.0//EN" "http://www.newzbin.com/DTD/nzb/nzb-1.0.dtd">
+<nzb xmlns="http://www.newzbin.com/DTD/2003/nzb">
+  <file poster="autom@gical.tv (M@GiC)" date="1373853312" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[41/42] - &#34;dexter.s08e03.hdtv.x264-asap.vol31+16.par2&#34; yEnc (01/17)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792952" number="1">1373853312.75539.1@reader.easyusenet.nl</segment>
+      <segment bytes="792790" number="2">1373853312.76574.2@reader.easyusenet.nl</segment>
+      <segment bytes="792745" number="3">1373853312.78041.3@reader.easyusenet.nl</segment>
+      <segment bytes="792950" number="4">1373853312.79226.4@reader.easyusenet.nl</segment>
+      <segment bytes="792954" number="5">1373853312.80333.5@reader.easyusenet.nl</segment>
+      <segment bytes="792713" number="6">1373853312.81771.6@reader.easyusenet.nl</segment>
+      <segment bytes="792720" number="7">1373853312.83164.7@reader.easyusenet.nl</segment>
+      <segment bytes="792844" number="8">1373853312.85133.8@reader.easyusenet.nl</segment>
+      <segment bytes="792950" number="9">1373853312.86217.9@reader.easyusenet.nl</segment>
+      <segment bytes="792927" number="10">1373853312.89162.10@reader.easyusenet.nl</segment>
+      <segment bytes="792786" number="11">1373853312.90008.11@reader.easyusenet.nl</segment>
+      <segment bytes="792863" number="12">1373853312.90530.12@reader.easyusenet.nl</segment>
+      <segment bytes="792794" number="13">1373853312.91181.13@reader.easyusenet.nl</segment>
+      <segment bytes="792745" number="14">1373853312.94408.14@reader.easyusenet.nl</segment>
+      <segment bytes="792903" number="15">1373853312.95448.15@reader.easyusenet.nl</segment>
+      <segment bytes="792728" number="16">1373853312.96344.16@reader.easyusenet.nl</segment>
+      <segment bytes="84384" number="17">1373853313.00657.17@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853313" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[42/42] - &#34;folder.jpg&#34; yEnc (1/1)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="97708" number="1">1373853313.00887.1@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853304" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[02/42] - &#34;dexter.s08e03.hdtv.x264-asap.sample.par2&#34; yEnc (1/1)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="1683" number="1">1373853304.03358.1@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853309" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[25/42] - &#34;dexter.s08e03.hdtv.x264-asap.r15&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792647" number="1">1373853309.45051.1@reader.easyusenet.nl</segment>
+      <segment bytes="792607" number="2">1373853309.49393.2@reader.easyusenet.nl</segment>
+      <segment bytes="792765" number="3">1373853309.51718.3@reader.easyusenet.nl</segment>
+      <segment bytes="792501" number="4">1373853309.52664.4@reader.easyusenet.nl</segment>
+      <segment bytes="792782" number="5">1373853309.53187.5@reader.easyusenet.nl</segment>
+      <segment bytes="792561" number="6">1373853309.53705.6@reader.easyusenet.nl</segment>
+      <segment bytes="792713" number="7">1373853309.54362.7@reader.easyusenet.nl</segment>
+      <segment bytes="792588" number="8">1373853309.58911.8@reader.easyusenet.nl</segment>
+      <segment bytes="792562" number="9">1373853309.59925.9@reader.easyusenet.nl</segment>
+      <segment bytes="792652" number="10">1373853309.62386.10@reader.easyusenet.nl</segment>
+      <segment bytes="793007" number="11">1373853309.63392.11@reader.easyusenet.nl</segment>
+      <segment bytes="792706" number="12">1373853309.64025.12@reader.easyusenet.nl</segment>
+      <segment bytes="792651" number="13">1373853309.66877.13@reader.easyusenet.nl</segment>
+      <segment bytes="792757" number="14">1373853309.67911.14@reader.easyusenet.nl</segment>
+      <segment bytes="792744" number="15">1373853309.69133.15@reader.easyusenet.nl</segment>
+      <segment bytes="792758" number="16">1373853309.72754.16@reader.easyusenet.nl</segment>
+      <segment bytes="792752" number="17">1373853309.73823.17@reader.easyusenet.nl</segment>
+      <segment bytes="792624" number="18">1373853309.74730.18@reader.easyusenet.nl</segment>
+      <segment bytes="792823" number="19">1373853309.75635.19@reader.easyusenet.nl</segment>
+      <segment bytes="421178" number="20">1373853309.76287.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853306" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[15/42] - &#34;dexter.s08e03.hdtv.x264-asap.r05&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792828" number="1">1373853306.43675.1@reader.easyusenet.nl</segment>
+      <segment bytes="792599" number="2">1373853306.44672.2@reader.easyusenet.nl</segment>
+      <segment bytes="792691" number="3">1373853306.49816.3@reader.easyusenet.nl</segment>
+      <segment bytes="792759" number="4">1373853306.50485.4@reader.easyusenet.nl</segment>
+      <segment bytes="792577" number="5">1373853306.51157.5@reader.easyusenet.nl</segment>
+      <segment bytes="792688" number="6">1373853306.51737.6@reader.easyusenet.nl</segment>
+      <segment bytes="792778" number="7">1373853306.52484.7@reader.easyusenet.nl</segment>
+      <segment bytes="792917" number="8">1373853306.54327.8@reader.easyusenet.nl</segment>
+      <segment bytes="792757" number="9">1373853306.55379.9@reader.easyusenet.nl</segment>
+      <segment bytes="792772" number="10">1373853306.61039.10@reader.easyusenet.nl</segment>
+      <segment bytes="792868" number="11">1373853306.61718.11@reader.easyusenet.nl</segment>
+      <segment bytes="792686" number="12">1373853306.62824.12@reader.easyusenet.nl</segment>
+      <segment bytes="792489" number="13">1373853306.63499.13@reader.easyusenet.nl</segment>
+      <segment bytes="792721" number="14">1373853306.64163.14@reader.easyusenet.nl</segment>
+      <segment bytes="792683" number="15">1373853306.64851.15@reader.easyusenet.nl</segment>
+      <segment bytes="792905" number="16">1373853306.67509.16@reader.easyusenet.nl</segment>
+      <segment bytes="792710" number="17">1373853306.71010.17@reader.easyusenet.nl</segment>
+      <segment bytes="792816" number="18">1373853306.72637.18@reader.easyusenet.nl</segment>
+      <segment bytes="792478" number="19">1373853306.73362.19@reader.easyusenet.nl</segment>
+      <segment bytes="421466" number="20">1373853306.75301.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853312" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[38/42] - &#34;dexter.s08e03.hdtv.x264-asap.vol03+04.par2&#34; yEnc (1/5)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792849" number="1">1373853312.30341.1@reader.easyusenet.nl</segment>
+      <segment bytes="792934" number="2">1373853312.30929.2@reader.easyusenet.nl</segment>
+      <segment bytes="792644" number="3">1373853312.31591.3@reader.easyusenet.nl</segment>
+      <segment bytes="792788" number="4">1373853312.33474.4@reader.easyusenet.nl</segment>
+      <segment bytes="50403" number="5">1373853312.34529.5@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853303" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[01/42] - &#34;dexter.s08e03.hdtv.x264-asap.sample.mp4&#34; yEnc (01/11)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792695" number="1">1373853303.70382.1@reader.easyusenet.nl</segment>
+      <segment bytes="792807" number="2">1373853303.71427.2@reader.easyusenet.nl</segment>
+      <segment bytes="792689" number="3">1373853303.72270.3@reader.easyusenet.nl</segment>
+      <segment bytes="792700" number="4">1373853303.73026.4@reader.easyusenet.nl</segment>
+      <segment bytes="792824" number="5">1373853303.73654.5@reader.easyusenet.nl</segment>
+      <segment bytes="792662" number="6">1373853303.74289.6@reader.easyusenet.nl</segment>
+      <segment bytes="792711" number="7">1373853303.78213.7@reader.easyusenet.nl</segment>
+      <segment bytes="792798" number="8">1373853304.00808.8@reader.easyusenet.nl</segment>
+      <segment bytes="792669" number="9">1373853304.01684.9@reader.easyusenet.nl</segment>
+      <segment bytes="792756" number="10">1373853304.02249.10@reader.easyusenet.nl</segment>
+      <segment bytes="676952" number="11">1373853304.02801.11@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853311" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[33/42] - &#34;dexter.s08e03.hdtv.x264-asap.rar&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792803" number="1">1373853311.90920.1@reader.easyusenet.nl</segment>
+      <segment bytes="792760" number="2">1373853311.92859.2@reader.easyusenet.nl</segment>
+      <segment bytes="792738" number="3">1373853311.93809.3@reader.easyusenet.nl</segment>
+      <segment bytes="792945" number="4">1373853311.94313.4@reader.easyusenet.nl</segment>
+      <segment bytes="792901" number="5">1373853311.94839.5@reader.easyusenet.nl</segment>
+      <segment bytes="792939" number="6">1373853311.95499.6@reader.easyusenet.nl</segment>
+      <segment bytes="792793" number="7">1373853311.96062.7@reader.easyusenet.nl</segment>
+      <segment bytes="792736" number="8">1373853312.00018.8@reader.easyusenet.nl</segment>
+      <segment bytes="792744" number="9">1373853312.04723.9@reader.easyusenet.nl</segment>
+      <segment bytes="792923" number="10">1373853312.05706.10@reader.easyusenet.nl</segment>
+      <segment bytes="792807" number="11">1373853312.06596.11@reader.easyusenet.nl</segment>
+      <segment bytes="792908" number="12">1373853312.07199.12@reader.easyusenet.nl</segment>
+      <segment bytes="792936" number="13">1373853312.07717.13@reader.easyusenet.nl</segment>
+      <segment bytes="792754" number="14">1373853312.08365.14@reader.easyusenet.nl</segment>
+      <segment bytes="792833" number="15">1373853312.09042.15@reader.easyusenet.nl</segment>
+      <segment bytes="792926" number="16">1373853312.17714.16@reader.easyusenet.nl</segment>
+      <segment bytes="793085" number="17">1373853312.18726.17@reader.easyusenet.nl</segment>
+      <segment bytes="792611" number="18">1373853312.19618.18@reader.easyusenet.nl</segment>
+      <segment bytes="792715" number="19">1373853312.20298.19@reader.easyusenet.nl</segment>
+      <segment bytes="421276" number="20">1373853312.20811.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853304" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[07/42] - &#34;dexter.s08e03.hdtv.x264-asap.sample.vol07+5.par2&#34; yEnc (1/3)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792820" number="1">1373853304.23689.1@reader.easyusenet.nl</segment>
+      <segment bytes="792672" number="2">1373853304.24647.2@reader.easyusenet.nl</segment>
+      <segment bytes="400406" number="3">1373853304.27739.3@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853304" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[06/42] - &#34;dexter.s08e03.hdtv.x264-asap.sample.vol03+4.par2&#34; yEnc (1/3)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792773" number="1">1373853304.15104.1@reader.easyusenet.nl</segment>
+      <segment bytes="792717" number="2">1373853304.21316.2@reader.easyusenet.nl</segment>
+      <segment bytes="4152" number="3">1373853304.22588.3@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853312" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[39/42] - &#34;dexter.s08e03.hdtv.x264-asap.vol07+08.par2&#34; yEnc (1/9)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="793009" number="1">1373853312.36344.1@reader.easyusenet.nl</segment>
+      <segment bytes="792684" number="2">1373853312.37602.2@reader.easyusenet.nl</segment>
+      <segment bytes="792784" number="3">1373853312.39722.3@reader.easyusenet.nl</segment>
+      <segment bytes="792971" number="4">1373853312.40973.4@reader.easyusenet.nl</segment>
+      <segment bytes="793023" number="5">1373853312.42039.5@reader.easyusenet.nl</segment>
+      <segment bytes="792694" number="6">1373853312.42967.6@reader.easyusenet.nl</segment>
+      <segment bytes="792811" number="7">1373853312.43654.7@reader.easyusenet.nl</segment>
+      <segment bytes="792580" number="8">1373853312.47506.8@reader.easyusenet.nl</segment>
+      <segment bytes="67238" number="9">1373853312.48764.9@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853307" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[19/42] - &#34;dexter.s08e03.hdtv.x264-asap.r09&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792689" number="1">1373853307.66259.1@reader.easyusenet.nl</segment>
+      <segment bytes="792790" number="2">1373853307.66953.2@reader.easyusenet.nl</segment>
+      <segment bytes="792623" number="3">1373853307.67478.3@reader.easyusenet.nl</segment>
+      <segment bytes="792975" number="4">1373853307.68880.4@reader.easyusenet.nl</segment>
+      <segment bytes="792722" number="5">1373853307.69610.5@reader.easyusenet.nl</segment>
+      <segment bytes="792443" number="6">1373853307.71466.6@reader.easyusenet.nl</segment>
+      <segment bytes="792629" number="7">1373853307.72147.7@reader.easyusenet.nl</segment>
+      <segment bytes="792738" number="8">1373853307.76472.8@reader.easyusenet.nl</segment>
+      <segment bytes="792580" number="9">1373853307.77341.9@reader.easyusenet.nl</segment>
+      <segment bytes="792835" number="10">1373853307.77996.10@reader.easyusenet.nl</segment>
+      <segment bytes="792704" number="11">1373853307.79418.11@reader.easyusenet.nl</segment>
+      <segment bytes="792537" number="12">1373853307.81348.12@reader.easyusenet.nl</segment>
+      <segment bytes="792850" number="13">1373853307.82020.13@reader.easyusenet.nl</segment>
+      <segment bytes="792530" number="14">1373853307.83263.14@reader.easyusenet.nl</segment>
+      <segment bytes="792678" number="15">1373853307.86351.15@reader.easyusenet.nl</segment>
+      <segment bytes="792696" number="16">1373853307.88103.16@reader.easyusenet.nl</segment>
+      <segment bytes="792846" number="17">1373853307.88747.17@reader.easyusenet.nl</segment>
+      <segment bytes="792772" number="18">1373853307.89428.18@reader.easyusenet.nl</segment>
+      <segment bytes="792836" number="19">1373853307.90931.19@reader.easyusenet.nl</segment>
+      <segment bytes="421334" number="20">1373853307.91577.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853309" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[24/42] - &#34;dexter.s08e03.hdtv.x264-asap.r14&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792759" number="1">1373853309.13219.1@reader.easyusenet.nl</segment>
+      <segment bytes="792667" number="2">1373853309.17067.2@reader.easyusenet.nl</segment>
+      <segment bytes="792945" number="3">1373853309.18595.3@reader.easyusenet.nl</segment>
+      <segment bytes="792847" number="4">1373853309.19705.4@reader.easyusenet.nl</segment>
+      <segment bytes="792635" number="5">1373853309.20529.5@reader.easyusenet.nl</segment>
+      <segment bytes="792849" number="6">1373853309.21843.6@reader.easyusenet.nl</segment>
+      <segment bytes="792690" number="7">1373853309.24529.7@reader.easyusenet.nl</segment>
+      <segment bytes="792904" number="8">1373853309.25564.8@reader.easyusenet.nl</segment>
+      <segment bytes="792570" number="9">1373853309.27016.9@reader.easyusenet.nl</segment>
+      <segment bytes="792706" number="10">1373853309.29374.10@reader.easyusenet.nl</segment>
+      <segment bytes="792707" number="11">1373853309.30268.11@reader.easyusenet.nl</segment>
+      <segment bytes="792362" number="12">1373853309.31373.12@reader.easyusenet.nl</segment>
+      <segment bytes="792639" number="13">1373853309.32028.13@reader.easyusenet.nl</segment>
+      <segment bytes="792804" number="14">1373853309.34479.14@reader.easyusenet.nl</segment>
+      <segment bytes="792680" number="15">1373853309.35910.15@reader.easyusenet.nl</segment>
+      <segment bytes="792633" number="16">1373853309.40499.16@reader.easyusenet.nl</segment>
+      <segment bytes="792559" number="17">1373853309.41551.17@reader.easyusenet.nl</segment>
+      <segment bytes="792713" number="18">1373853309.42462.18@reader.easyusenet.nl</segment>
+      <segment bytes="792824" number="19">1373853309.43122.19@reader.easyusenet.nl</segment>
+      <segment bytes="421238" number="20">1373853309.43636.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853310" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[27/42] - &#34;dexter.s08e03.hdtv.x264-asap.r17&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792856" number="1">1373853310.10761.1@reader.easyusenet.nl</segment>
+      <segment bytes="792727" number="2">1373853310.11455.2@reader.easyusenet.nl</segment>
+      <segment bytes="792642" number="3">1373853310.12286.3@reader.easyusenet.nl</segment>
+      <segment bytes="792713" number="4">1373853310.18388.4@reader.easyusenet.nl</segment>
+      <segment bytes="792719" number="5">1373853310.19554.5@reader.easyusenet.nl</segment>
+      <segment bytes="792853" number="6">1373853310.20719.6@reader.easyusenet.nl</segment>
+      <segment bytes="792782" number="7">1373853310.21747.7@reader.easyusenet.nl</segment>
+      <segment bytes="792755" number="8">1373853310.22545.8@reader.easyusenet.nl</segment>
+      <segment bytes="792736" number="9">1373853310.23097.9@reader.easyusenet.nl</segment>
+      <segment bytes="792674" number="10">1373853310.23821.10@reader.easyusenet.nl</segment>
+      <segment bytes="792749" number="11">1373853310.30134.11@reader.easyusenet.nl</segment>
+      <segment bytes="792900" number="12">1373853310.31481.12@reader.easyusenet.nl</segment>
+      <segment bytes="792687" number="13">1373853310.32435.13@reader.easyusenet.nl</segment>
+      <segment bytes="792752" number="14">1373853310.33400.14@reader.easyusenet.nl</segment>
+      <segment bytes="792667" number="15">1373853310.34314.15@reader.easyusenet.nl</segment>
+      <segment bytes="792798" number="16">1373853310.34839.16@reader.easyusenet.nl</segment>
+      <segment bytes="792675" number="17">1373853310.37386.17@reader.easyusenet.nl</segment>
+      <segment bytes="792490" number="18">1373853310.42095.18@reader.easyusenet.nl</segment>
+      <segment bytes="792753" number="19">1373853310.43102.19@reader.easyusenet.nl</segment>
+      <segment bytes="421333" number="20">1373853310.44090.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853305" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[13/42] - &#34;dexter.s08e03.hdtv.x264-asap.r03&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792698" number="1">1373853305.66384.1@reader.easyusenet.nl</segment>
+      <segment bytes="792793" number="2">1373853305.73476.2@reader.easyusenet.nl</segment>
+      <segment bytes="792516" number="3">1373853305.74224.3@reader.easyusenet.nl</segment>
+      <segment bytes="792898" number="4">1373853305.76335.4@reader.easyusenet.nl</segment>
+      <segment bytes="792547" number="5">1373853305.76981.5@reader.easyusenet.nl</segment>
+      <segment bytes="792650" number="6">1373853305.77509.6@reader.easyusenet.nl</segment>
+      <segment bytes="792972" number="7">1373853305.78897.7@reader.easyusenet.nl</segment>
+      <segment bytes="792617" number="8">1373853305.79421.8@reader.easyusenet.nl</segment>
+      <segment bytes="792843" number="9">1373853305.86301.9@reader.easyusenet.nl</segment>
+      <segment bytes="792865" number="10">1373853305.86998.10@reader.easyusenet.nl</segment>
+      <segment bytes="792764" number="11">1373853305.89303.11@reader.easyusenet.nl</segment>
+      <segment bytes="792778" number="12">1373853305.90535.12@reader.easyusenet.nl</segment>
+      <segment bytes="792661" number="13">1373853305.91219.13@reader.easyusenet.nl</segment>
+      <segment bytes="792715" number="14">1373853305.91752.14@reader.easyusenet.nl</segment>
+      <segment bytes="792700" number="15">1373853305.92493.15@reader.easyusenet.nl</segment>
+      <segment bytes="792780" number="16">1373853305.98187.16@reader.easyusenet.nl</segment>
+      <segment bytes="792438" number="17">1373853306.02851.17@reader.easyusenet.nl</segment>
+      <segment bytes="792726" number="18">1373853306.03838.18@reader.easyusenet.nl</segment>
+      <segment bytes="792579" number="19">1373853306.04378.19@reader.easyusenet.nl</segment>
+      <segment bytes="421401" number="20">1373853306.05056.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853304" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[11/42] - &#34;dexter.s08e03.hdtv.x264-asap.r01&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792647" number="1">1373853304.81613.1@reader.easyusenet.nl</segment>
+      <segment bytes="792504" number="2">1373853304.91180.2@reader.easyusenet.nl</segment>
+      <segment bytes="792622" number="3">1373853304.91985.3@reader.easyusenet.nl</segment>
+      <segment bytes="792659" number="4">1373853304.93920.4@reader.easyusenet.nl</segment>
+      <segment bytes="793002" number="5">1373853304.94866.5@reader.easyusenet.nl</segment>
+      <segment bytes="792558" number="6">1373853304.97250.6@reader.easyusenet.nl</segment>
+      <segment bytes="792638" number="7">1373853304.98032.7@reader.easyusenet.nl</segment>
+      <segment bytes="792935" number="8">1373853305.01657.8@reader.easyusenet.nl</segment>
+      <segment bytes="792664" number="9">1373853305.06133.9@reader.easyusenet.nl</segment>
+      <segment bytes="792727" number="10">1373853305.07464.10@reader.easyusenet.nl</segment>
+      <segment bytes="792715" number="11">1373853305.08463.11@reader.easyusenet.nl</segment>
+      <segment bytes="792626" number="12">1373853305.09673.12@reader.easyusenet.nl</segment>
+      <segment bytes="792899" number="13">1373853305.10681.13@reader.easyusenet.nl</segment>
+      <segment bytes="792803" number="14">1373853305.18612.14@reader.easyusenet.nl</segment>
+      <segment bytes="792601" number="15">1373853305.19737.15@reader.easyusenet.nl</segment>
+      <segment bytes="792777" number="16">1373853305.20684.16@reader.easyusenet.nl</segment>
+      <segment bytes="792670" number="17">1373853305.21254.17@reader.easyusenet.nl</segment>
+      <segment bytes="792724" number="18">1373853305.24504.18@reader.easyusenet.nl</segment>
+      <segment bytes="792788" number="19">1373853305.25635.19@reader.easyusenet.nl</segment>
+      <segment bytes="421377" number="20">1373853305.26317.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853304" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[05/42] - &#34;dexter.s08e03.hdtv.x264-asap.sample.vol01+2.par2&#34; yEnc (1/2)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792821" number="1">1373853304.06986.1@reader.easyusenet.nl</segment>
+      <segment bytes="2933" number="2">1373853304.08998.2@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853306" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[14/42] - &#34;dexter.s08e03.hdtv.x264-asap.r04&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792784" number="1">1373853306.05352.1@reader.easyusenet.nl</segment>
+      <segment bytes="792721" number="2">1373853306.06035.2@reader.easyusenet.nl</segment>
+      <segment bytes="792681" number="3">1373853306.10040.3@reader.easyusenet.nl</segment>
+      <segment bytes="792623" number="4">1373853306.16520.4@reader.easyusenet.nl</segment>
+      <segment bytes="792685" number="5">1373853306.17172.5@reader.easyusenet.nl</segment>
+      <segment bytes="792857" number="6">1373853306.17906.6@reader.easyusenet.nl</segment>
+      <segment bytes="792708" number="7">1373853306.18524.7@reader.easyusenet.nl</segment>
+      <segment bytes="792720" number="8">1373853306.19102.8@reader.easyusenet.nl</segment>
+      <segment bytes="792679" number="9">1373853306.22011.9@reader.easyusenet.nl</segment>
+      <segment bytes="792595" number="10">1373853306.22546.10@reader.easyusenet.nl</segment>
+      <segment bytes="792663" number="11">1373853306.29502.11@reader.easyusenet.nl</segment>
+      <segment bytes="792682" number="12">1373853306.30177.12@reader.easyusenet.nl</segment>
+      <segment bytes="792607" number="13">1373853306.30835.13@reader.easyusenet.nl</segment>
+      <segment bytes="792759" number="14">1373853306.31367.14@reader.easyusenet.nl</segment>
+      <segment bytes="792642" number="15">1373853306.32147.15@reader.easyusenet.nl</segment>
+      <segment bytes="792545" number="16">1373853306.34654.16@reader.easyusenet.nl</segment>
+      <segment bytes="792852" number="17">1373853306.35318.17@reader.easyusenet.nl</segment>
+      <segment bytes="792865" number="18">1373853306.40489.18@reader.easyusenet.nl</segment>
+      <segment bytes="792677" number="19">1373853306.41367.19@reader.easyusenet.nl</segment>
+      <segment bytes="421397" number="20">1373853306.42040.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853308" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[21/42] - &#34;dexter.s08e03.hdtv.x264-asap.r11&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792762" number="1">1373853308.21722.1@reader.easyusenet.nl</segment>
+      <segment bytes="792795" number="2">1373853308.22451.2@reader.easyusenet.nl</segment>
+      <segment bytes="792606" number="3">1373853308.23136.3@reader.easyusenet.nl</segment>
+      <segment bytes="792813" number="4">1373853308.28361.4@reader.easyusenet.nl</segment>
+      <segment bytes="792657" number="5">1373853308.29639.5@reader.easyusenet.nl</segment>
+      <segment bytes="792612" number="6">1373853308.30302.6@reader.easyusenet.nl</segment>
+      <segment bytes="792707" number="7">1373853308.30972.7@reader.easyusenet.nl</segment>
+      <segment bytes="792854" number="8">1373853308.31889.8@reader.easyusenet.nl</segment>
+      <segment bytes="792776" number="9">1373853308.33975.9@reader.easyusenet.nl</segment>
+      <segment bytes="792790" number="10">1373853308.34679.10@reader.easyusenet.nl</segment>
+      <segment bytes="793039" number="11">1373853308.37912.11@reader.easyusenet.nl</segment>
+      <segment bytes="792843" number="12">1373853308.39583.12@reader.easyusenet.nl</segment>
+      <segment bytes="793000" number="13">1373853308.40231.13@reader.easyusenet.nl</segment>
+      <segment bytes="792743" number="14">1373853308.40898.14@reader.easyusenet.nl</segment>
+      <segment bytes="792749" number="15">1373853308.41610.15@reader.easyusenet.nl</segment>
+      <segment bytes="792753" number="16">1373853308.43335.16@reader.easyusenet.nl</segment>
+      <segment bytes="792573" number="17">1373853308.44011.17@reader.easyusenet.nl</segment>
+      <segment bytes="792715" number="18">1373853308.46731.18@reader.easyusenet.nl</segment>
+      <segment bytes="792661" number="19">1373853308.49355.19@reader.easyusenet.nl</segment>
+      <segment bytes="421456" number="20">1373853308.50005.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853307" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[17/42] - &#34;dexter.s08e03.hdtv.x264-asap.r07&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792692" number="1">1373853307.07439.1@reader.easyusenet.nl</segment>
+      <segment bytes="792783" number="2">1373853307.09073.2@reader.easyusenet.nl</segment>
+      <segment bytes="792486" number="3">1373853307.10257.3@reader.easyusenet.nl</segment>
+      <segment bytes="792700" number="4">1373853307.11038.4@reader.easyusenet.nl</segment>
+      <segment bytes="792706" number="5">1373853307.11698.5@reader.easyusenet.nl</segment>
+      <segment bytes="792957" number="6">1373853307.12364.6@reader.easyusenet.nl</segment>
+      <segment bytes="792552" number="7">1373853307.13494.7@reader.easyusenet.nl</segment>
+      <segment bytes="792653" number="8">1373853307.17045.8@reader.easyusenet.nl</segment>
+      <segment bytes="792656" number="9">1373853307.20403.9@reader.easyusenet.nl</segment>
+      <segment bytes="792623" number="10">1373853307.21292.10@reader.easyusenet.nl</segment>
+      <segment bytes="792766" number="11">1373853307.21965.11@reader.easyusenet.nl</segment>
+      <segment bytes="792770" number="12">1373853307.22673.12@reader.easyusenet.nl</segment>
+      <segment bytes="792633" number="13">1373853307.23342.13@reader.easyusenet.nl</segment>
+      <segment bytes="792682" number="14">1373853307.24040.14@reader.easyusenet.nl</segment>
+      <segment bytes="792645" number="15">1373853307.27030.15@reader.easyusenet.nl</segment>
+      <segment bytes="792629" number="16">1373853307.30949.16@reader.easyusenet.nl</segment>
+      <segment bytes="792693" number="17">1373853307.31589.17@reader.easyusenet.nl</segment>
+      <segment bytes="792598" number="18">1373853307.32361.18@reader.easyusenet.nl</segment>
+      <segment bytes="792594" number="19">1373853307.33553.19@reader.easyusenet.nl</segment>
+      <segment bytes="421303" number="20">1373853307.34193.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853309" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[26/42] - &#34;dexter.s08e03.hdtv.x264-asap.r16&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792603" number="1">1373853309.79958.1@reader.easyusenet.nl</segment>
+      <segment bytes="792659" number="2">1373853309.80623.2@reader.easyusenet.nl</segment>
+      <segment bytes="792722" number="3">1373853309.84364.3@reader.easyusenet.nl</segment>
+      <segment bytes="792833" number="4">1373853309.85342.4@reader.easyusenet.nl</segment>
+      <segment bytes="792688" number="5">1373853309.85992.5@reader.easyusenet.nl</segment>
+      <segment bytes="792789" number="6">1373853309.88070.6@reader.easyusenet.nl</segment>
+      <segment bytes="792529" number="7">1373853309.89102.7@reader.easyusenet.nl</segment>
+      <segment bytes="792705" number="8">1373853309.89980.8@reader.easyusenet.nl</segment>
+      <segment bytes="792712" number="9">1373853309.90995.9@reader.easyusenet.nl</segment>
+      <segment bytes="792724" number="10">1373853309.95512.10@reader.easyusenet.nl</segment>
+      <segment bytes="792867" number="11">1373853309.96512.11@reader.easyusenet.nl</segment>
+      <segment bytes="792698" number="12">1373853309.97527.12@reader.easyusenet.nl</segment>
+      <segment bytes="792738" number="13">1373853309.99472.13@reader.easyusenet.nl</segment>
+      <segment bytes="792832" number="14">1373853310.00370.14@reader.easyusenet.nl</segment>
+      <segment bytes="792428" number="15">1373853310.01051.15@reader.easyusenet.nl</segment>
+      <segment bytes="792812" number="16">1373853310.01574.16@reader.easyusenet.nl</segment>
+      <segment bytes="792757" number="17">1373853310.07244.17@reader.easyusenet.nl</segment>
+      <segment bytes="792810" number="18">1373853310.08253.18@reader.easyusenet.nl</segment>
+      <segment bytes="792930" number="19">1373853310.09145.19@reader.easyusenet.nl</segment>
+      <segment bytes="421439" number="20">1373853310.10468.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853312" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[35/42] - &#34;dexter.s08e03.hdtv.x264-asap.srr&#34; yEnc (1/1)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="58383" number="1">1373853312.21254.1@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853304" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[08/42] - &#34;dexter.s08e03.hdtv.x264-asap.nfo&#34; yEnc (1/1)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="5369" number="1">1373853304.28798.1@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853308" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[22/42] - &#34;dexter.s08e03.hdtv.x264-asap.r12&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792671" number="1">1373853308.50297.1@reader.easyusenet.nl</segment>
+      <segment bytes="792661" number="2">1373853308.50995.2@reader.easyusenet.nl</segment>
+      <segment bytes="792731" number="3">1373853308.52856.3@reader.easyusenet.nl</segment>
+      <segment bytes="792781" number="4">1373853308.53384.4@reader.easyusenet.nl</segment>
+      <segment bytes="792755" number="5">1373853308.55601.5@reader.easyusenet.nl</segment>
+      <segment bytes="792865" number="6">1373853308.59688.6@reader.easyusenet.nl</segment>
+      <segment bytes="792595" number="7">1373853308.60343.7@reader.easyusenet.nl</segment>
+      <segment bytes="792725" number="8">1373853308.60875.8@reader.easyusenet.nl</segment>
+      <segment bytes="792605" number="9">1373853308.61565.9@reader.easyusenet.nl</segment>
+      <segment bytes="792545" number="10">1373853308.62277.10@reader.easyusenet.nl</segment>
+      <segment bytes="792635" number="11">1373853308.62956.11@reader.easyusenet.nl</segment>
+      <segment bytes="792815" number="12">1373853308.65470.12@reader.easyusenet.nl</segment>
+      <segment bytes="792829" number="13">1373853308.70128.13@reader.easyusenet.nl</segment>
+      <segment bytes="792695" number="14">1373853308.71163.14@reader.easyusenet.nl</segment>
+      <segment bytes="792792" number="15">1373853308.72072.15@reader.easyusenet.nl</segment>
+      <segment bytes="792503" number="16">1373853308.72961.16@reader.easyusenet.nl</segment>
+      <segment bytes="792800" number="17">1373853308.73726.17@reader.easyusenet.nl</segment>
+      <segment bytes="792764" number="18">1373853308.74238.18@reader.easyusenet.nl</segment>
+      <segment bytes="792807" number="19">1373853308.75040.19@reader.easyusenet.nl</segment>
+      <segment bytes="421347" number="20">1373853308.82676.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853311" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[30/42] - &#34;dexter.s08e03.hdtv.x264-asap.r20&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792664" number="1">1373853311.06300.1@reader.easyusenet.nl</segment>
+      <segment bytes="792871" number="2">1373853311.12993.2@reader.easyusenet.nl</segment>
+      <segment bytes="792623" number="3">1373853311.14621.3@reader.easyusenet.nl</segment>
+      <segment bytes="792605" number="4">1373853311.15274.4@reader.easyusenet.nl</segment>
+      <segment bytes="792689" number="5">1373853311.16041.5@reader.easyusenet.nl</segment>
+      <segment bytes="792748" number="6">1373853311.16560.6@reader.easyusenet.nl</segment>
+      <segment bytes="792876" number="7">1373853311.19211.7@reader.easyusenet.nl</segment>
+      <segment bytes="792735" number="8">1373853311.20309.8@reader.easyusenet.nl</segment>
+      <segment bytes="792866" number="9">1373853311.21369.9@reader.easyusenet.nl</segment>
+      <segment bytes="792726" number="10">1373853311.24038.10@reader.easyusenet.nl</segment>
+      <segment bytes="792771" number="11">1373853311.25953.11@reader.easyusenet.nl</segment>
+      <segment bytes="792772" number="12">1373853311.27105.12@reader.easyusenet.nl</segment>
+      <segment bytes="792764" number="13">1373853311.28013.13@reader.easyusenet.nl</segment>
+      <segment bytes="792832" number="14">1373853311.29233.14@reader.easyusenet.nl</segment>
+      <segment bytes="792732" number="15">1373853311.30653.15@reader.easyusenet.nl</segment>
+      <segment bytes="792811" number="16">1373853311.31375.16@reader.easyusenet.nl</segment>
+      <segment bytes="792854" number="17">1373853311.33621.17@reader.easyusenet.nl</segment>
+      <segment bytes="792678" number="18">1373853311.37340.18@reader.easyusenet.nl</segment>
+      <segment bytes="792912" number="19">1373853311.38356.19@reader.easyusenet.nl</segment>
+      <segment bytes="421226" number="20">1373853311.39237.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853310" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[29/42] - &#34;dexter.s08e03.hdtv.x264-asap.r19&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792755" number="1">1373853310.77943.1@reader.easyusenet.nl</segment>
+      <segment bytes="792695" number="2">1373853310.79007.2@reader.easyusenet.nl</segment>
+      <segment bytes="792590" number="3">1373853310.79907.3@reader.easyusenet.nl</segment>
+      <segment bytes="792615" number="4">1373853310.80935.4@reader.easyusenet.nl</segment>
+      <segment bytes="792742" number="5">1373853310.81463.5@reader.easyusenet.nl</segment>
+      <segment bytes="792774" number="6">1373853310.82143.6@reader.easyusenet.nl</segment>
+      <segment bytes="792957" number="7">1373853310.86104.7@reader.easyusenet.nl</segment>
+      <segment bytes="792773" number="8">1373853310.89777.8@reader.easyusenet.nl</segment>
+      <segment bytes="792737" number="9">1373853310.91224.9@reader.easyusenet.nl</segment>
+      <segment bytes="792711" number="10">1373853310.91862.10@reader.easyusenet.nl</segment>
+      <segment bytes="792778" number="11">1373853310.92737.11@reader.easyusenet.nl</segment>
+      <segment bytes="792620" number="12">1373853310.93401.12@reader.easyusenet.nl</segment>
+      <segment bytes="792874" number="13">1373853310.94203.13@reader.easyusenet.nl</segment>
+      <segment bytes="792536" number="14">1373853310.94915.14@reader.easyusenet.nl</segment>
+      <segment bytes="792699" number="15">1373853311.02073.15@reader.easyusenet.nl</segment>
+      <segment bytes="792695" number="16">1373853311.03083.16@reader.easyusenet.nl</segment>
+      <segment bytes="792761" number="17">1373853311.03976.17@reader.easyusenet.nl</segment>
+      <segment bytes="792686" number="18">1373853311.04973.18@reader.easyusenet.nl</segment>
+      <segment bytes="792726" number="19">1373853311.05495.19@reader.easyusenet.nl</segment>
+      <segment bytes="421426" number="20">1373853311.06011.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853304" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[03/42] - &#34;dexter.s08e03.hdtv.x264-asap.sample.srs&#34; yEnc (1/1)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="48988" number="1">1373853304.03374.1@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853304" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[09/42] - &#34;dexter.s08e03.hdtv.x264-asap.par2&#34; yEnc (1/1)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="17102" number="1">1373853304.28932.1@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853305" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[12/42] - &#34;dexter.s08e03.hdtv.x264-asap.r02&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792725" number="1">1373853305.33709.1@reader.easyusenet.nl</segment>
+      <segment bytes="792602" number="2">1373853305.34354.2@reader.easyusenet.nl</segment>
+      <segment bytes="792689" number="3">1373853305.35022.3@reader.easyusenet.nl</segment>
+      <segment bytes="792690" number="4">1373853305.35558.4@reader.easyusenet.nl</segment>
+      <segment bytes="792771" number="5">1373853305.36091.5@reader.easyusenet.nl</segment>
+      <segment bytes="792642" number="6">1373853305.38105.6@reader.easyusenet.nl</segment>
+      <segment bytes="792944" number="7">1373853305.38746.7@reader.easyusenet.nl</segment>
+      <segment bytes="792735" number="8">1373853305.48123.8@reader.easyusenet.nl</segment>
+      <segment bytes="792555" number="9">1373853305.48762.9@reader.easyusenet.nl</segment>
+      <segment bytes="792675" number="10">1373853305.49290.10@reader.easyusenet.nl</segment>
+      <segment bytes="792753" number="11">1373853305.49933.11@reader.easyusenet.nl</segment>
+      <segment bytes="792781" number="12">1373853305.50599.12@reader.easyusenet.nl</segment>
+      <segment bytes="792562" number="13">1373853305.51380.13@reader.easyusenet.nl</segment>
+      <segment bytes="792695" number="14">1373853305.52174.14@reader.easyusenet.nl</segment>
+      <segment bytes="792783" number="15">1373853305.62097.15@reader.easyusenet.nl</segment>
+      <segment bytes="792769" number="16">1373853305.62748.16@reader.easyusenet.nl</segment>
+      <segment bytes="792503" number="17">1373853305.64064.17@reader.easyusenet.nl</segment>
+      <segment bytes="792764" number="18">1373853305.64591.18@reader.easyusenet.nl</segment>
+      <segment bytes="792810" number="19">1373853305.65262.19@reader.easyusenet.nl</segment>
+      <segment bytes="421337" number="20">1373853305.65920.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853311" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[31/42] - &#34;dexter.s08e03.hdtv.x264-asap.r21&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792791" number="1">1373853311.39794.1@reader.easyusenet.nl</segment>
+      <segment bytes="792616" number="2">1373853311.40478.2@reader.easyusenet.nl</segment>
+      <segment bytes="792628" number="3">1373853311.41019.3@reader.easyusenet.nl</segment>
+      <segment bytes="792812" number="4">1373853311.43539.4@reader.easyusenet.nl</segment>
+      <segment bytes="792922" number="5">1373853311.46503.5@reader.easyusenet.nl</segment>
+      <segment bytes="792669" number="6">1373853311.47867.6@reader.easyusenet.nl</segment>
+      <segment bytes="792682" number="7">1373853311.49596.7@reader.easyusenet.nl</segment>
+      <segment bytes="792680" number="8">1373853311.50591.8@reader.easyusenet.nl</segment>
+      <segment bytes="792439" number="9">1373853311.51246.9@reader.easyusenet.nl</segment>
+      <segment bytes="792676" number="10">1373853311.52039.10@reader.easyusenet.nl</segment>
+      <segment bytes="792787" number="11">1373853311.53046.11@reader.easyusenet.nl</segment>
+      <segment bytes="792627" number="12">1373853311.57021.12@reader.easyusenet.nl</segment>
+      <segment bytes="792633" number="13">1373853311.59026.13@reader.easyusenet.nl</segment>
+      <segment bytes="792704" number="14">1373853311.60044.14@reader.easyusenet.nl</segment>
+      <segment bytes="792529" number="15">1373853311.60933.15@reader.easyusenet.nl</segment>
+      <segment bytes="792578" number="16">1373853311.61703.16@reader.easyusenet.nl</segment>
+      <segment bytes="792787" number="17">1373853311.62377.17@reader.easyusenet.nl</segment>
+      <segment bytes="792733" number="18">1373853311.63104.18@reader.easyusenet.nl</segment>
+      <segment bytes="792422" number="19">1373853311.68306.19@reader.easyusenet.nl</segment>
+      <segment bytes="421386" number="20">1373853311.70216.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853312" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[34/42] - &#34;dexter.s08e03.hdtv.x264-asap.sfv&#34; yEnc (1/1)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="1539" number="1">1373853312.21237.1@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853312" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[36/42] - &#34;dexter.s08e03.hdtv.x264-asap.vol00+01.par2&#34; yEnc (1/2)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792850" number="1">1373853312.24577.1@reader.easyusenet.nl</segment>
+      <segment bytes="17198" number="2">1373853312.27519.2@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853312" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[37/42] - &#34;dexter.s08e03.hdtv.x264-asap.vol01+02.par2&#34; yEnc (1/3)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792820" number="1">1373853312.27795.1@reader.easyusenet.nl</segment>
+      <segment bytes="792806" number="2">1373853312.29618.2@reader.easyusenet.nl</segment>
+      <segment bytes="33791" number="3">1373853312.30291.3@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853304" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[10/42] - &#34;dexter.s08e03.hdtv.x264-asap.r00&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792719" number="1">1373853304.31244.1@reader.easyusenet.nl</segment>
+      <segment bytes="792898" number="2">1373853304.34233.2@reader.easyusenet.nl</segment>
+      <segment bytes="792806" number="3">1373853304.38038.3@reader.easyusenet.nl</segment>
+      <segment bytes="792683" number="4">1373853304.39353.4@reader.easyusenet.nl</segment>
+      <segment bytes="792713" number="5">1373853304.41518.5@reader.easyusenet.nl</segment>
+      <segment bytes="792577" number="6">1373853304.43219.6@reader.easyusenet.nl</segment>
+      <segment bytes="792823" number="7">1373853304.44340.7@reader.easyusenet.nl</segment>
+      <segment bytes="792768" number="8">1373853304.55495.8@reader.easyusenet.nl</segment>
+      <segment bytes="792778" number="9">1373853304.56622.9@reader.easyusenet.nl</segment>
+      <segment bytes="792740" number="10">1373853304.57783.10@reader.easyusenet.nl</segment>
+      <segment bytes="792799" number="11">1373853304.59793.11@reader.easyusenet.nl</segment>
+      <segment bytes="792879" number="12">1373853304.60914.12@reader.easyusenet.nl</segment>
+      <segment bytes="792621" number="13">1373853304.61918.13@reader.easyusenet.nl</segment>
+      <segment bytes="792663" number="14">1373853304.64059.14@reader.easyusenet.nl</segment>
+      <segment bytes="792670" number="15">1373853304.75122.15@reader.easyusenet.nl</segment>
+      <segment bytes="792733" number="16">1373853304.76400.16@reader.easyusenet.nl</segment>
+      <segment bytes="792702" number="17">1373853304.77633.17@reader.easyusenet.nl</segment>
+      <segment bytes="792772" number="18">1373853304.79090.18@reader.easyusenet.nl</segment>
+      <segment bytes="792690" number="19">1373853304.79706.19@reader.easyusenet.nl</segment>
+      <segment bytes="421483" number="20">1373853304.80860.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853306" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[16/42] - &#34;dexter.s08e03.hdtv.x264-asap.r06&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792937" number="1">1373853306.75873.1@reader.easyusenet.nl</segment>
+      <segment bytes="792820" number="2">1373853306.76625.2@reader.easyusenet.nl</segment>
+      <segment bytes="792774" number="3">1373853306.79079.3@reader.easyusenet.nl</segment>
+      <segment bytes="792844" number="4">1373853306.81816.4@reader.easyusenet.nl</segment>
+      <segment bytes="792679" number="5">1373853306.82470.5@reader.easyusenet.nl</segment>
+      <segment bytes="792747" number="6">1373853306.84248.6@reader.easyusenet.nl</segment>
+      <segment bytes="792707" number="7">1373853306.86350.7@reader.easyusenet.nl</segment>
+      <segment bytes="792854" number="8">1373853306.87029.8@reader.easyusenet.nl</segment>
+      <segment bytes="792808" number="9">1373853306.87820.9@reader.easyusenet.nl</segment>
+      <segment bytes="792561" number="10">1373853306.89485.10@reader.easyusenet.nl</segment>
+      <segment bytes="792724" number="11">1373853306.91532.11@reader.easyusenet.nl</segment>
+      <segment bytes="792719" number="12">1373853306.92614.12@reader.easyusenet.nl</segment>
+      <segment bytes="792744" number="13">1373853306.94394.13@reader.easyusenet.nl</segment>
+      <segment bytes="792824" number="14">1373853306.97352.14@reader.easyusenet.nl</segment>
+      <segment bytes="792782" number="15">1373853306.98018.15@reader.easyusenet.nl</segment>
+      <segment bytes="792649" number="16">1373853306.98548.16@reader.easyusenet.nl</segment>
+      <segment bytes="792831" number="17">1373853306.99885.17@reader.easyusenet.nl</segment>
+      <segment bytes="792910" number="18">1373853307.01466.18@reader.easyusenet.nl</segment>
+      <segment bytes="792523" number="19">1373853307.03466.19@reader.easyusenet.nl</segment>
+      <segment bytes="421441" number="20">1373853307.04557.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853310" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[28/42] - &#34;dexter.s08e03.hdtv.x264-asap.r18&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792815" number="1">1373853310.44577.1@reader.easyusenet.nl</segment>
+      <segment bytes="792614" number="2">1373853310.45620.2@reader.easyusenet.nl</segment>
+      <segment bytes="792737" number="3">1373853310.46508.3@reader.easyusenet.nl</segment>
+      <segment bytes="792663" number="4">1373853310.47459.4@reader.easyusenet.nl</segment>
+      <segment bytes="792857" number="5">1373853310.52706.5@reader.easyusenet.nl</segment>
+      <segment bytes="792855" number="6">1373853310.54083.6@reader.easyusenet.nl</segment>
+      <segment bytes="792604" number="7">1373853310.55733.7@reader.easyusenet.nl</segment>
+      <segment bytes="792856" number="8">1373853310.56777.8@reader.easyusenet.nl</segment>
+      <segment bytes="792721" number="9">1373853310.57652.9@reader.easyusenet.nl</segment>
+      <segment bytes="792807" number="10">1373853310.58443.10@reader.easyusenet.nl</segment>
+      <segment bytes="792735" number="11">1373853310.58964.11@reader.easyusenet.nl</segment>
+      <segment bytes="792784" number="12">1373853310.64183.12@reader.easyusenet.nl</segment>
+      <segment bytes="792728" number="13">1373853310.65308.13@reader.easyusenet.nl</segment>
+      <segment bytes="792691" number="14">1373853310.66560.14@reader.easyusenet.nl</segment>
+      <segment bytes="792680" number="15">1373853310.67723.15@reader.easyusenet.nl</segment>
+      <segment bytes="792591" number="16">1373853310.68761.16@reader.easyusenet.nl</segment>
+      <segment bytes="792734" number="17">1373853310.69908.17@reader.easyusenet.nl</segment>
+      <segment bytes="792548" number="18">1373853310.71123.18@reader.easyusenet.nl</segment>
+      <segment bytes="792718" number="19">1373853310.75178.19@reader.easyusenet.nl</segment>
+      <segment bytes="421349" number="20">1373853310.76230.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853307" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[20/42] - &#34;dexter.s08e03.hdtv.x264-asap.r10&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792572" number="1">1373853307.92583.1@reader.easyusenet.nl</segment>
+      <segment bytes="792577" number="2">1373853307.95017.2@reader.easyusenet.nl</segment>
+      <segment bytes="792816" number="3">1373853307.97860.3@reader.easyusenet.nl</segment>
+      <segment bytes="792521" number="4">1373853307.98510.4@reader.easyusenet.nl</segment>
+      <segment bytes="792741" number="5">1373853307.99172.5@reader.easyusenet.nl</segment>
+      <segment bytes="792760" number="6">1373853307.99706.6@reader.easyusenet.nl</segment>
+      <segment bytes="792892" number="7">1373853308.00375.7@reader.easyusenet.nl</segment>
+      <segment bytes="792642" number="8">1373853308.01500.8@reader.easyusenet.nl</segment>
+      <segment bytes="792627" number="9">1373853308.03909.9@reader.easyusenet.nl</segment>
+      <segment bytes="792776" number="10">1373853308.08494.10@reader.easyusenet.nl</segment>
+      <segment bytes="792599" number="11">1373853308.09165.11@reader.easyusenet.nl</segment>
+      <segment bytes="792960" number="12">1373853308.09704.12@reader.easyusenet.nl</segment>
+      <segment bytes="792698" number="13">1373853308.10398.13@reader.easyusenet.nl</segment>
+      <segment bytes="792594" number="14">1373853308.10928.14@reader.easyusenet.nl</segment>
+      <segment bytes="792642" number="15">1373853308.12657.15@reader.easyusenet.nl</segment>
+      <segment bytes="792769" number="16">1373853308.13332.16@reader.easyusenet.nl</segment>
+      <segment bytes="792836" number="17">1373853308.19272.17@reader.easyusenet.nl</segment>
+      <segment bytes="792585" number="18">1373853308.20012.18@reader.easyusenet.nl</segment>
+      <segment bytes="792915" number="19">1373853308.20694.19@reader.easyusenet.nl</segment>
+      <segment bytes="421562" number="20">1373853308.21239.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853312" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[40/42] - &#34;dexter.s08e03.hdtv.x264-asap.vol15+16.par2&#34; yEnc (01/17)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792695" number="1">1373853312.50906.1@reader.easyusenet.nl</segment>
+      <segment bytes="792910" number="2">1373853312.51631.2@reader.easyusenet.nl</segment>
+      <segment bytes="792836" number="3">1373853312.52629.3@reader.easyusenet.nl</segment>
+      <segment bytes="792870" number="4">1373853312.53181.4@reader.easyusenet.nl</segment>
+      <segment bytes="792776" number="5">1373853312.53867.5@reader.easyusenet.nl</segment>
+      <segment bytes="792874" number="6">1373853312.54443.6@reader.easyusenet.nl</segment>
+      <segment bytes="792797" number="7">1373853312.58938.7@reader.easyusenet.nl</segment>
+      <segment bytes="792823" number="8">1373853312.62630.8@reader.easyusenet.nl</segment>
+      <segment bytes="792776" number="9">1373853312.63395.9@reader.easyusenet.nl</segment>
+      <segment bytes="792652" number="10">1373853312.64040.10@reader.easyusenet.nl</segment>
+      <segment bytes="792741" number="11">1373853312.64700.11@reader.easyusenet.nl</segment>
+      <segment bytes="792666" number="12">1373853312.65229.12@reader.easyusenet.nl</segment>
+      <segment bytes="792999" number="13">1373853312.67886.13@reader.easyusenet.nl</segment>
+      <segment bytes="792783" number="14">1373853312.68969.14@reader.easyusenet.nl</segment>
+      <segment bytes="792890" number="15">1373853312.73154.15@reader.easyusenet.nl</segment>
+      <segment bytes="792747" number="16">1373853312.73837.16@reader.easyusenet.nl</segment>
+      <segment bytes="84311" number="17">1373853312.74918.17@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853304" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[04/42] - &#34;dexter.s08e03.hdtv.x264-asap.sample.vol00+1.par2&#34; yEnc (1/1)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="397959" number="1">1373853304.05701.1@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853308" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[23/42] - &#34;dexter.s08e03.hdtv.x264-asap.r13&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792736" number="1">1373853308.83327.1@reader.easyusenet.nl</segment>
+      <segment bytes="792703" number="2">1373853308.84436.2@reader.easyusenet.nl</segment>
+      <segment bytes="792921" number="3">1373853308.85548.3@reader.easyusenet.nl</segment>
+      <segment bytes="792674" number="4">1373853308.86515.4@reader.easyusenet.nl</segment>
+      <segment bytes="792717" number="5">1373853308.87182.5@reader.easyusenet.nl</segment>
+      <segment bytes="792624" number="6">1373853308.87796.6@reader.easyusenet.nl</segment>
+      <segment bytes="792840" number="7">1373853308.93211.7@reader.easyusenet.nl</segment>
+      <segment bytes="792765" number="8">1373853308.96004.8@reader.easyusenet.nl</segment>
+      <segment bytes="792769" number="9">1373853308.96900.9@reader.easyusenet.nl</segment>
+      <segment bytes="792577" number="10">1373853308.97707.10@reader.easyusenet.nl</segment>
+      <segment bytes="792740" number="11">1373853309.00896.11@reader.easyusenet.nl</segment>
+      <segment bytes="792817" number="12">1373853309.01422.12@reader.easyusenet.nl</segment>
+      <segment bytes="792608" number="13">1373853309.02082.13@reader.easyusenet.nl</segment>
+      <segment bytes="792694" number="14">1373853309.02605.14@reader.easyusenet.nl</segment>
+      <segment bytes="792633" number="15">1373853309.04626.15@reader.easyusenet.nl</segment>
+      <segment bytes="792636" number="16">1373853309.07692.16@reader.easyusenet.nl</segment>
+      <segment bytes="792759" number="17">1373853309.10107.17@reader.easyusenet.nl</segment>
+      <segment bytes="792985" number="18">1373853309.11225.18@reader.easyusenet.nl</segment>
+      <segment bytes="792631" number="19">1373853309.12143.19@reader.easyusenet.nl</segment>
+      <segment bytes="421466" number="20">1373853309.12791.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853307" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[18/42] - &#34;dexter.s08e03.hdtv.x264-asap.r08&#34; yEnc (01/20)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792737" number="1">1373853307.34617.1@reader.easyusenet.nl</segment>
+      <segment bytes="792734" number="2">1373853307.36951.2@reader.easyusenet.nl</segment>
+      <segment bytes="792765" number="3">1373853307.40144.3@reader.easyusenet.nl</segment>
+      <segment bytes="792659" number="4">1373853307.41025.4@reader.easyusenet.nl</segment>
+      <segment bytes="792614" number="5">1373853307.41672.5@reader.easyusenet.nl</segment>
+      <segment bytes="792799" number="6">1373853307.42570.6@reader.easyusenet.nl</segment>
+      <segment bytes="792846" number="7">1373853307.43475.7@reader.easyusenet.nl</segment>
+      <segment bytes="792645" number="8">1373853307.45961.8@reader.easyusenet.nl</segment>
+      <segment bytes="792841" number="9">1373853307.46965.9@reader.easyusenet.nl</segment>
+      <segment bytes="792640" number="10">1373853307.50378.10@reader.easyusenet.nl</segment>
+      <segment bytes="792769" number="11">1373853307.51036.11@reader.easyusenet.nl</segment>
+      <segment bytes="792360" number="12">1373853307.52042.12@reader.easyusenet.nl</segment>
+      <segment bytes="792459" number="13">1373853307.52690.13@reader.easyusenet.nl</segment>
+      <segment bytes="792956" number="14">1373853307.53342.14@reader.easyusenet.nl</segment>
+      <segment bytes="792573" number="15">1373853307.55799.15@reader.easyusenet.nl</segment>
+      <segment bytes="792677" number="16">1373853307.56582.16@reader.easyusenet.nl</segment>
+      <segment bytes="792785" number="17">1373853307.59664.17@reader.easyusenet.nl</segment>
+      <segment bytes="792801" number="18">1373853307.61525.18@reader.easyusenet.nl</segment>
+      <segment bytes="792861" number="19">1373853307.62189.19@reader.easyusenet.nl</segment>
+      <segment bytes="421315" number="20">1373853307.63057.20@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+  <file poster="autom@gical.tv (M@GiC)" date="1373853311" subject="[146104]-[FULL]-[#a.b.teevee]-[ Dexter.S08E03.HDTV.x264-ASAP ]-[32/42] - &#34;dexter.s08e03.hdtv.x264-asap.r22&#34; yEnc (01/12)">
+    <groups>
+      <group>alt.binaries.teevee</group>
+    </groups>
+    <segments>
+      <segment bytes="792397" number="1">1373853311.70956.1@reader.easyusenet.nl</segment>
+      <segment bytes="792786" number="2">1373853311.71994.2@reader.easyusenet.nl</segment>
+      <segment bytes="792750" number="3">1373853311.72884.3@reader.easyusenet.nl</segment>
+      <segment bytes="792771" number="4">1373853311.73542.4@reader.easyusenet.nl</segment>
+      <segment bytes="792827" number="5">1373853311.74242.5@reader.easyusenet.nl</segment>
+      <segment bytes="792971" number="6">1373853311.78271.6@reader.easyusenet.nl</segment>
+      <segment bytes="792658" number="7">1373853311.81817.7@reader.easyusenet.nl</segment>
+      <segment bytes="792655" number="8">1373853311.83220.8@reader.easyusenet.nl</segment>
+      <segment bytes="794395" number="9">1373853311.84048.9@reader.easyusenet.nl</segment>
+      <segment bytes="791341" number="10">1373853311.84642.10@reader.easyusenet.nl</segment>
+      <segment bytes="788608" number="11">1373853311.85539.11@reader.easyusenet.nl</segment>
+      <segment bytes="419093" number="12">1373853311.87512.12@reader.easyusenet.nl</segment>
+    </segments>
+  </file>
+
+  <!-- Generated by newsmangler at 2013-07-15 01:55:13 UTC -->
+</nzb>

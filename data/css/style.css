@@ -1278,3 +1278,321 @@ ul.nav .dropdown-menu .divider {
   filter: progid:dximagetransform.microsoft.gradient(startColorstr='#51a9c4', endColorstr='#2d88a1', GradientType=0);
 }
 */
+
+/* responsive styles */
+
+/* Large desktop */
+@media (min-width: 1200px) {
+	
+}
+ 
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 480px) and (max-width: 979px) {
+	/* menu */
+	.nav-collapse .nav > li > a:hover, .nav-collapse .nav > li > a:focus, .nav-collapse .dropdown-menu a:hover, .nav-collapse .dropdown-menu a:focus {
+		background: transparent;
+	}	
+	.nav-collapse .nav > li > a, .nav-collapse .dropdown-menu a {
+		color: #fff;
+	}
+	.nav [class^="icon-"], .nav [class*=" icon-"] {
+		background-image: url("/images/glyphicons-halflings-white.png");
+	}
+	.nav-collapse .dropdown-menu {
+		margin: 0px;
+		background: rgba(0,0,0,0.2);
+		border-radius: 5px;
+	}	
+	/* content */
+	#content {
+		min-width: 0px;
+		width: auto;
+	}	
+	/* general tables */
+	td {
+		word-break: break-all;
+	}
+	td.infoTableHeader {
+		word-break: normal;
+	}
+	.tableWrapper {
+		width: 100%;
+		overflow: hidden;
+		overflow-x: scroll;
+	}	
+	tr.seasonheader {
+		text-align: left;
+	}
+	/* add shows */
+	#addShowPortal {
+		width: 100%;
+	}
+	div.stepsguide .step {
+		width: 33.3%;
+		font-size: 16px;
+		text-align: center;
+	}
+	div.stepsguide .step .smalltext {
+		font-size: 12px;
+		position: relative;
+		font-weight: bold;
+		height: 50px;
+		padding-top: 5px;
+	}
+	div.stepsguide .step p {
+		position: absolute;
+		display: block;
+		width: 100%;
+		bottom: 0px;
+	}		
+	/* config */
+	#config-content {
+		width: 100%;
+	}	
+	.component-group {
+		padding: 15px 0px 10px 0px;
+	}
+}
+ 
+/* Landscape phones and down */
+@media (max-width: 480px) {
+	/* we know it's alpha, we need every pixel */
+	#versiontext {
+		display: none;
+	}
+	/* fixed is annoying on mobile devices */
+	#topcontrol {
+		display: none;
+	}
+	/* menu */
+	.nav-collapse .nav > li > a:hover, .nav-collapse .nav > li > a:focus, .nav-collapse .dropdown-menu a:hover, .nav-collapse .dropdown-menu a:focus {
+		background: transparent;
+	}	
+	.nav-collapse .nav > li > a, .nav-collapse .dropdown-menu a {
+		color: #fff;
+	}
+	.nav [class^="icon-"], .nav [class*=" icon-"] {
+		background-image: url("/images/glyphicons-halflings-white.png");
+	}
+	.nav-collapse .dropdown-menu {
+		margin: 0px;
+		background: rgba(0,0,0,0.2);
+		border-radius: 5px;
+	}
+	/* donate */
+	#navDonate {
+		margin: 0px auto 0px auto;
+		width: 92px;
+		display: block;
+	}
+	/* base */
+	#header {
+		padding: 10px;
+	}
+	#logo {
+		display: block;
+		width: 150px;
+		margin: 0px auto 0px auto;
+	}
+	/* submenu */
+	#SubMenu {
+		padding-left: 0px;
+		line-height: 0px;
+		color: #f5f1e4;
+	}
+	#SubMenu span a {
+		display: block;
+		text-align: center;
+		padding: 2px 0px 1px 0px;
+		position: relative;
+		z-index: 1;
+	}
+	#SubMenu span b {
+		display: block; 
+		color: #56442a;
+		text-align: center;
+		height: 28px;
+		line-height: 28px;
+	}
+	/* content */
+	#content {
+		min-width: 0px;
+		width: auto;
+	}
+	/* ui overlay */
+	.ui-widget-overlay {
+		opacity: 0.8 !important; 
+	}
+	/* add shows */
+	#addShowPortal {
+		width: 100%;
+	}
+	div.stepsguide .step {
+		width: 33.3%;
+		font-size: 16px;
+		text-align: center;
+	}
+	div.stepsguide .step .smalltext {
+		font-size: 12px;
+		position: relative;
+		font-weight: bold;
+		height: 50px;
+		padding-top: 5px;
+	}
+	div.stepsguide .step p {
+		position: absolute;
+		display: block;
+		width: 100%;
+		bottom: 0px;
+	}
+	/* manual post */
+	#episodeDir {
+		margin-bottom: 10px;
+	}
+	/* coming */
+	.tvshowDiv {
+		width: 100%;
+	}
+	.bannerThumb {
+		width: 100%;
+		height: auto;
+	}
+	/* general tables */
+	td {
+		word-break: break-all;
+	}
+	td.infoTableHeader {
+		word-break: normal;
+	}
+	
+	/* show overview */
+	div#summary {
+		margin: 10px 0px 10px 0px;
+	}
+	
+	/* view a show */
+	#checkboxControls {
+		float: left;
+		width: 100%;
+		margin-top: -25px;
+	}
+	
+	#checkboxControls label {
+		display: block;	
+		font-size: 0.9em;
+		margin: 0px;
+	}
+	
+	/* edit show */
+	input {
+		max-width: 90%;
+	}
+	
+	#location, #tv_download_dir {
+		margin-bottom: 10px;
+	}
+	
+	/* add show etc */
+	
+	.ui-tabs .ui-tabs-nav li a {
+		font-size: 0.8em;
+	}
+	
+	#rootDirs, #rootDirsControls {
+		min-width: 100% !important;
+		width: 100% !important;
+		text-align: left !important;;
+	}
+	
+	 #rootDirsControls .btn {
+	 	font-size: 0.8em !important;
+	 }
+	 
+	/* tables */
+	.tableWrapper {
+		width: 100%;
+		overflow: hidden;
+		overflow-x: scroll;
+	}
+	
+	tr.seasonheader {
+		text-align: left;
+	}
+	
+	td.tvShow a, span.quality, .progressbarText {
+		font-size: 0.9em;
+	}
+	
+	.plotInfo, .hide_small_screen {
+		display: none;
+	}
+	
+	table {
+		width: 100%;
+		font-size: 0.9em;
+	}
+	
+	table tfoot {
+		display: none;
+	}
+	
+	.container {
+		width: 100% !important;
+	}
+	
+	.ui-pnotify-title {
+		font-size: 0.9em !important;
+	}
+	
+	/* config */
+	
+	#config .nocheck, #config div #customQuality, .metadataDiv, .providerDiv {
+		padding-left: 0px;
+	}
+	
+	.component-group-save {
+		width: 50%;
+	}
+	
+	.component-group-save input {
+		float: right;
+	}
+	
+	#config div.field-pair {
+		padding-left: 0px;
+		margin-bottom: 8px;
+		border-bottom: 1px solid #eee;
+	}
+	
+	#config label span.component-title {
+		width: 100%;
+		float: none;
+	}
+	
+	#config-content, .component-group-list {
+		width: 100%;
+	}
+	
+	.component-group {
+		padding: 15px 0px 10px 0px;
+	}
+	
+	.component-group-desc {
+		float: none;
+		width: 100%;
+	}
+	
+	/* notify */
+	
+	html > body .ui-pnotify  {
+		max-width: 90%;
+		width: 90% !important;
+		min-width: 90%;
+	}
+	
+	/* footer */
+	.h2footer {
+		margin: auto;
+		text-align: left;
+	}
+}

@@ -123,6 +123,8 @@ Change selected episodes to
     </div>
 </div>
 
+<div class="tableWrapper">
+
 <table class="sickbeardTable" cellspacing="1" border="0" cellpadding="0">
     
 #for $epResult in $sqlResults:
@@ -134,7 +136,17 @@ Change selected episodes to
         <h2>#if int($epResult["season"]) == 0 then "Specials" else "Season "+str($epResult["season"])#</h2>
     </td>
   </tr>
-  <tr id="season-$epResult["season"]-cols"><th width="1%"><input type="checkbox" class="seasonCheck" id="$epResult["season"]" /></th><th>NFO</th><th>TBN</th><th>Episode</th><th>Name</th><th class="nowrap">Airdate</th><th>Filename</th><th>Status</th><th>Search</th></tr>
+  <tr id="season-$epResult["season"]-cols">
+  	<th width="1%"><input type="checkbox" class="seasonCheck" id="$epResult["season"]" /></th>
+  	<th class="hide_small_screen">NFO</th>
+  	<th class="hide_small_screen">TBN</th>
+  	<th>Episode</th>
+  	<th>Name</th>
+  	<th class="nowrap">Airdate</th>
+  	<th class="hide_small_screen">Filename</th>
+  	<th class="hide_small_screen">Status</th>
+  	<th>Search</th>
+  </tr>
         #set $curSeason = int($epResult["season"])
     #end if    
 
@@ -146,8 +158,8 @@ Change selected episodes to
       <input type="checkbox" class="epCheck" id="<%=str(epResult["season"])+'x'+str(epResult["episode"])%>" name="<%=str(epResult["season"]) +"x"+str(epResult["episode"]) %>" />
 #end if
     </td>
-    <td align="center"><img src="$sbRoot/images/#if $epResult["hasnfo"] == 1 then "nfo.gif\" alt=\"Y" else "nfo-no.gif\" alt=\"N"#" width="23" height="11" /></td>
-    <td align="center"><img src="$sbRoot/images/#if $epResult["hastbn"] == 1 then "tbn.gif\" alt=\"Y" else "tbn-no.gif\" alt=\"N"#" width="23" height="11" /></td>
+    <td align="center" class="hide_small_screen"><img src="$sbRoot/images/#if $epResult["hasnfo"] == 1 then "nfo.gif\" alt=\"Y" else "nfo-no.gif\" alt=\"N"#" width="23" height="11" /></td>
+    <td align="center" class="hide_small_screen"><img src="$sbRoot/images/#if $epResult["hastbn"] == 1 then "tbn.gif\" alt=\"Y" else "tbn-no.gif\" alt=\"N"#" width="23" height="11" /></td>
     <td align="center">$epResult["episode"]</td>
     <td>
     $epResult["name"]
@@ -156,7 +168,7 @@ Change selected episodes to
     #end if
     </td>
     <td align="center" class="nowrap">#if int($epResult["airdate"]) == 1 then "never" else $datetime.date.fromordinal(int($epResult["airdate"]))#</td>
-    <td>
+    <td class="hide_small_screen">
 #if $epLoc and $show._location and $epLoc.lower().startswith($show._location.lower()):
 $epLoc[len($show._location)+1:]
 #elif $epLoc and (not $epLoc.lower().startswith($show._location.lower()) or not $show._location):
@@ -164,7 +176,7 @@ $epLoc
 #end if
 
     </td>
-    <td class="status_column">$statusStrings[int($epResult["status"])]</td>
+    <td class="status_column hide_small_screen">$statusStrings[int($epResult["status"])]</td>
     <td align="center">
     #if int($epResult["season"]) != 0:
       <a class="epSearch" href="searchEpisode?show=$show.tvdbid&amp;season=$epResult["season"]&amp;episode=$epResult["episode"]"><img src="$sbRoot/images/search16.png" height="16" alt="search" title="Manual Search" /></a>
@@ -174,5 +186,7 @@ $epLoc
 
 #end for
 </table><br />
+
+</div>
 
 #include $os.path.join($sickbeard.PROG_DIR, "data/interfaces/default/inc_bottom.tmpl")

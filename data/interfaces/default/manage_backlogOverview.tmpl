@@ -22,6 +22,8 @@
     <span class="qual nowrap">Low Quality: <b>$totalQual</b></span>
 </div><br/>
 
+<div class="tableWrapper">
+
 <table class="sickbeardTable" cellspacing="1" border="0" cellpadding="0">
 
 #for $curShow in sorted($sickbeard.showList, key=operator.attrgetter('name')):
@@ -64,5 +66,7 @@
 
 
 </table><br />
+
+</div>
 
 #include $os.path.join($sickbeard.PROG_DIR, "data/interfaces/default/inc_bottom.tmpl")

@@ -86,8 +86,11 @@
 <input type="hidden" id="sbRoot" value="$sbRoot" />
 
 <br/>
+
+<div class="tableWrapper">
+
     <table id="showListTable" class="tablesorter" cellspacing="1" border="0" cellpadding="0">
-    <thead><tr><th>Airdate</th><th>Show</th><th class="nowrap">Next Ep</th><th>Next Ep Name</th><th>Network</th><th>Quality</th><th>tvDB</th><th>Search</th></tr></thead>
+    <thead><tr><th>Airdate</th><th>Show</th><th class="nowrap">Next Ep</th><th class="hide_small_screen">Next Ep Name</th><th class="hide_small_screen">Network</th><th class="hide_small_screen">Quality</th><th class="hide_small_screen">tvDB</th><th>Search</th></tr></thead>
     <tbody>
 
     #for $cur_result in $sql_results:
@@ -118,21 +121,21 @@
             #end if
         </td>
         <td class="nowrap" align="center"><%="%02ix%02i" % (int(cur_result["season"]), int(cur_result["episode"])) %></td>
-        <td>
+        <td class="hide_small_screen">
         #if $cur_result["description"] != "" and $cur_result["description"] != None:
             <img alt="" src="$sbRoot/images/info32.png" height="16" width="16" class="plotInfo" id="plot_info_<%=str(cur_result["showid"])+"_"+str(cur_result["season"])+"_"+str(cur_result["episode"])%>" />
         #end if
             $cur_result["name"]
         </td>
-        <td align="center">$cur_result["network"]</td>
-        <td align="center">
+        <td align="center" class="hide_small_screen">$cur_result["network"]</td>
+        <td align="center" class="hide_small_screen">
 #if int($cur_result["quality"]) in $qualityPresets:
     <span class="quality $qualityPresetStrings[int($cur_result["quality"])]">$qualityPresetStrings[int($cur_result["quality"])]</span>
 #else:
     <span class="quality Custom">Custom</span>
 #end if
         </td>
-        <td align="center"><a href="http://thetvdb.com/?tab=series&amp;id=${cur_result["showid"]}" onclick="window.open(this.href, '_blank'); return false;" title="http://thetvdb.com/?tab=series&amp;id=${cur_result["showid"]}"><img alt="[info]" height="16" width="16" src="$sbRoot/images/thetvdb16.png" /></a></td>
+        <td align="center" class="hide_small_screen"><a href="http://thetvdb.com/?tab=series&amp;id=${cur_result["showid"]}" onclick="window.open(this.href, '_blank'); return false;" title="http://thetvdb.com/?tab=series&amp;id=${cur_result["showid"]}"><img alt="[info]" height="16" width="16" src="$sbRoot/images/thetvdb16.png" /></a></td>
         <td align="center">
         <a href="$sbRoot/home/searchEpisode?show=${cur_result["showid"]}&amp;season=$cur_result["season"]&amp;episode=$cur_result["episode"]" title="Manual Search" id="forceUpdate-${cur_result["showid"]}" class="forceUpdate epSearch"><img alt="[search]" height="16" width="16" src="$sbRoot/images/search16.png" id="forceUpdateImage-${cur_result["showid"]}" /></a>
         </td>
@@ -262,6 +265,9 @@
           </td>
         </tr>
       </table>
+      
+      </div><!-- end table wrapper -->
+      
       </div>
     </div>
     
